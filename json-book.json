@@ -12,7 +12,7 @@
   {
     "id": 1,
     "Автор": "Лев Толстой",
-    "обложка": "https://example.com/covers/voina-i-mir.jpg",
+    "обложка": "https://cdn1.ozone.ru/s3/multimedia-p/c600/6619639525.jpg",
     "название": "Война и мир",
     "год": 1869,
     "ISBN": "978-5-17-123456-7",
@@ -22,7 +22,7 @@
   {
     "id": 2,
     "Автор": "Джордж Оруэлл",
-    "обложка": "https://example.com/covers/1984.jpg",
+    "обложка": "https://avatars.mds.yandex.net/i?id=1beaf9e6ea23664b16d1035504e71390a1abae0a-11397886-images-thumbs&n=13",
     "название": "1984",
     "год": 1949,
     "ISBN": "978-5-17-098765-4",
@@ -32,7 +32,7 @@
   {
     "id": 3,
     "Автор": "Агата Кристи",
-    "обложка": "https://example.com/covers/desyat-negrityat.jpg",
+    "обложка": "https://avatars.mds.yandex.net/get-mpic/6253235/img_id6266617760263370939.jpeg/orig",
     "название": "Десять негритят",
     "год": 1939,
     "ISBN": "978-5-04-123987-6",
@@ -42,7 +42,7 @@
   {
     "id": 4,
     "Автор": "Михаил Булгаков",
-    "обложка": "https://example.com/covers/master-i-margarita.jpg",
+    "обложка": "https://avatars.mds.yandex.net/get-mpic/12263081/2a000001920e85a708e768b31f35339919b7/orig",
     "название": "Мастер и Маргарита",
     "год": 1967,
     "ISBN": "978-5-17-067890-5",
@@ -52,7 +52,7 @@
   {
     "id": 5,
     "Автор": "Эрнест Хемингуэй",
-    "обложка": "https://example.com/covers/starec-i-more.jpg",
+    "обложка": "https://avatars.mds.yandex.net/i?id=be52fb51fe818a8149de12b0d8defb5bb8f3d815-5502412-images-thumbs&n=13",
     "название": "Старик и море",
     "год": 1952,
     "ISBN": "978-5-17-045678-6",
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "Автор": "Джоан Роулинг",
-    "обложка": "https://example.com/covers/harry-potter-1.jpg",
+    "обложка": "https://avatars.mds.yandex.net/i?id=f2a65e513ba9916c07284e57f2ae62b938058857-5548878-images-thumbs&n=13",
     "название": "Гарри Поттер и философский камень",
     "год": 1997,
     "ISBN": "978-5-389-07432-1",
@@ -72,7 +72,7 @@
   {
     "id": 7,
     "Автор": "Фрэнк Герберт",
-    "обложка": "https://example.com/covers/duna.jpg",
+    "обложка": "https://avatars.mds.yandex.net/get-mpic/5362248/img_id3839091449742968210.jpeg/orig",
     "название": "Дюна",
     "год": 1965,
     "ISBN": "978-5-699-56789-0",
@@ -82,7 +82,7 @@
   {
     "id": 8,
     "Автор": "Рэй Брэдбери",
-    "обложка": "https://example.com/covers/451-fahrenheit.jpg",
+    "обложка": "https://cdn1.ozone.ru/s3/multimedia-5/6459730769.jpg",
     "название": "451° по Фаренгейту",
     "год": 1953,
     "ISBN": "978-5-17-082345-7",
@@ -92,7 +92,7 @@
   {
     "id": 9,
     "Автор": "Джон Толкин",
-    "обложка": "https://example.com/covers/vlastelin-kolec.jpg",
+    "обложка": "https://fsd.multiurok.ru/html/2021/05/10/s_60998863bb181/s1687555_1_3.jpeg",
     "название": "Властелин Колец",
     "год": 1954,
     "ISBN": "978-5-17-036789-2",
@@ -102,7 +102,7 @@
   {
     "id": 10,
     "Автор": "Габриэль Гарсиа Маркес",
-    "обложка": "https://example.com/covers/sto-let-odinochestva.jpg",
+    "обложка": "https://cdn1.ozone.ru/s3/multimedia-1/6648961969.jpg",
     "название": "Сто лет одиночества",
     "год": 1967,
     "ISBN": "978-5-17-050987-1",
@@ -112,7 +112,7 @@
   {
     "id": 11,
     "Автор": "Антуан де Сент-Экзюпери",
-    "обложка": "https://example.com/covers/malenkii-princ.jpg",
+    "обложка": "https://avatars.mds.yandex.net/i?id=6386d7448e1df2e55749d4d398d42162_l-4575769-images-thumbs&n=13",
     "название": "Маленький принц",
     "год": 1943,
     "ISBN": "978-5-17-062894-7",
